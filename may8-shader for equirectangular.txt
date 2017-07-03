@@ -1,0 +1,6 @@
+https://medium.com/@verochan/how-to-make-a-360%C2%BA-image-viewer-with-unity3d-b1aa9f99cabb
+
+https://forum.openframeworks.cc/t/equirectangular-projection-shader/19937
+
+http://theta360.guide/blog/video,/unity/2016/10/16/video-file-on-unity-sphere.html
+
